@@ -2,6 +2,9 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.1": {
+      "awesome-bootstrap-checkbox/0.3.4.1": {
+        "type": "package"
+      },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
         "type": "package",
         "dependencies": {
@@ -4337,6 +4340,20 @@
     }
   },
   "libraries": {
+    "awesome-bootstrap-checkbox/0.3.4.1": {
+      "sha512": "q71wfn30CCtqFLuTxJO5+xDYguhgru1+HQftgaV7YwWr+OEPPtamQTOWgty8txN2UmIofVxASi6ZAJhJQ/tJiQ==",
+      "type": "package",
+      "path": "awesome-bootstrap-checkbox/0.3.4.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "awesome-bootstrap-checkbox.0.3.4.1.nupkg.sha512",
+        "awesome-bootstrap-checkbox.nuspec",
+        "content/content/awesome-bootstrap-checkbox.css",
+        "content/content/awesome-bootstrap-checkbox.less",
+        "content/content/awesome-bootstrap-checkbox.scss"
+      ]
+    },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "sha512": "owAlEIUZXWSnkK8Z1c+zR47A0X6ykF4XjbPok4lQKNuciUfHLGPd6QnI+rt/8KlQ17PmF+I4S3f+m+Qe4IvViw==",
       "type": "package",
@@ -11792,7 +11809,8 @@
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
-      "Microsoft.NETCore.App >= 2.1.0"
+      "Microsoft.NETCore.App >= 2.1.0",
+      "awesome-bootstrap-checkbox >= 0.3.4.1"
     ]
   },
   "packageFolders": {
@@ -11851,6 +11869,10 @@
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
+          },
+          "awesome-bootstrap-checkbox": {
+            "target": "Package",
+            "version": "[0.3.4.1, )"
           }
         },
         "imports": [
