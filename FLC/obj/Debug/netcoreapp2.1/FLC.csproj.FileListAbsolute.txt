@@ -2,6 +2,9 @@ C:\Users\EdgardOrellana\Proyectos\FLC\FLC\bin\Debug\netcoreapp2.1\FLC.deps.json
 C:\Users\EdgardOrellana\Proyectos\FLC\FLC\bin\Debug\netcoreapp2.1\FLC.runtimeconfig.json
 C:\Users\EdgardOrellana\Proyectos\FLC\FLC\bin\Debug\netcoreapp2.1\FLC.runtimeconfig.dev.json
 C:\Users\EdgardOrellana\Proyectos\FLC\FLC\bin\Debug\netcoreapp2.1\FLC.dll
+C:\Users\EdgardOrellana\Proyectos\FLC\FLC\bin\Debug\netcoreapp2.1\FLC.pdb
+C:\Users\EdgardOrellana\Proyectos\FLC\FLC\bin\Debug\netcoreapp2.1\FLC.Views.dll
+C:\Users\EdgardOrellana\Proyectos\FLC\FLC\bin\Debug\netcoreapp2.1\FLC.Views.pdb
 C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\FLC.csprojAssemblyReference.cache
 C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\FLC.csproj.CoreCompileInputs.cache
 C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\FLC.RazorAssemblyInfo.cache
@@ -64,10 +67,6 @@ C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\Gr
 C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\Graphs\Rickshaw.g.cshtml.cs
 C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\Graphs\Sparkline.g.cshtml.cs
 C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\GridOptions\Index.g.cshtml.cs
-C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
-C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
-C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
-C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
 C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\Landing\Index.g.cshtml.cs
 C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\Layouts\Index.g.cshtml.cs
 C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\Layouts\OffCanvas.g.cshtml.cs
@@ -119,8 +118,6 @@ C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\Pa
 C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\Pages\NotFoundError.g.cshtml.cs
 C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\Pages\Register.g.cshtml.cs
 C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\Pages\SearchResults.g.cshtml.cs
-C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
-C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
 C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Footer.g.cshtml.cs
 C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
 C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout_2.g.cshtml.cs
@@ -132,7 +129,6 @@ C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\Sh
 C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SkinConfig.g.cshtml.cs
 C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_TopNavbar.g.cshtml.cs
 C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_TopNavbar2.g.cshtml.cs
-C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
 C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\Tables\DataTables.g.cshtml.cs
 C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\Tables\FooTables.g.cshtml.cs
 C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\Tables\jqGrid.g.cshtml.cs
@@ -153,3 +149,7 @@ C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\_V
 C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
 C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\FLC.RazorTargetAssemblyInfo.cache
 C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\FLC.RazorTargetAssemblyInfo.cs
+C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\FLC.Views.pdb
+C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\FLC.dll
+C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\FLC.pdb
+C:\Users\EdgardOrellana\Proyectos\FLC\FLC\obj\Debug\netcoreapp2.1\FLC.csproj.CopyComplete

@@ -451,12 +451,12 @@ using ASPNET_Core_2_1;
                 WriteLiteral("\r\n    ");
                 EndContext();
                 BeginContext(14438, 145, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("environment", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "25dce0f1e5e345eaa6b5e7cf1564b11f", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("environment", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "99bd9aea69234a339fe9e1ba87a416c5", async() => {
                     BeginContext(14490, 10, true);
                     WriteLiteral("\r\n        ");
                     EndContext();
                     BeginContext(14500, 63, false);
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7a2d5104f2694c10b8b246564702d422", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4ad2bd43f918427a89c5f9fba9d17fa4", async() => {
                     }
                     );
                     __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

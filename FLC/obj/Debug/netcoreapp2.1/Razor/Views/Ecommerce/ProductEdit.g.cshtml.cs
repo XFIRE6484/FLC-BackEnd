@@ -232,7 +232,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
                                             ");
             EndContext();
             BeginContext(56433, 25, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7e3e713040a642b18b88b63ddaedff74", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "186bc3c4269d42a5b16390a3a69f999a", async() => {
                 BeginContext(56441, 8, true);
                 WriteLiteral("option 1");
                 EndContext();
@@ -252,7 +252,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
             WriteLiteral("\r\n                                            ");
             EndContext();
             BeginContext(56504, 25, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f33afe5debff4bb98165f65cda6fd5bc", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f71d3bc95de84a20825c7dfe4d455cbc", async() => {
                 BeginContext(56512, 8, true);
                 WriteLiteral("option 2");
                 EndContext();
@@ -293,7 +293,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
                                             ");
             EndContext();
             BeginContext(57970, 25, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "55baa7aeb2484b4a84cf75fa6162fd9a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fc9e36eb7c044880b6c3d1f1c8a1edca", async() => {
                 BeginContext(57978, 8, true);
                 WriteLiteral("option 1");
                 EndContext();
@@ -313,7 +313,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
             WriteLiteral("\r\n                                            ");
             EndContext();
             BeginContext(58041, 25, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "54933401c72c48d0a9ca09881a4245da", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ab628c7014c040ae93acd26ea436d5bc", async() => {
                 BeginContext(58049, 8, true);
                 WriteLiteral("option 2");
                 EndContext();
@@ -375,7 +375,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
                                                     ");
             EndContext();
             BeginContext(60008, 33, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bcdd93409bfc41bc9d4cfd82853e6bd8", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0c51bb9188614912997bcfd3c6f9d2bb", async() => {
                 BeginContext(60025, 7, true);
                 WriteLiteral("Group 1");
                 EndContext();
@@ -398,7 +398,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
             WriteLiteral("\r\n                                                    ");
             EndContext();
             BeginContext(60095, 24, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4a3ca67cbb554f2ea49a29517315ec92", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "41821cffd67440fa95c169beb3dd4ff9", async() => {
                 BeginContext(60103, 7, true);
                 WriteLiteral("Group 2");
                 EndContext();
@@ -418,7 +418,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
             WriteLiteral("\r\n                                                    ");
             EndContext();
             BeginContext(60173, 24, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "17538e6537c4486e990faa7032f2d6c3", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7f4edc8d57354b80adc21adc2c665d37", async() => {
                 BeginContext(60181, 7, true);
                 WriteLiteral("Group 3");
                 EndContext();
@@ -438,7 +438,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
             WriteLiteral("\r\n                                                    ");
             EndContext();
             BeginContext(60251, 24, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3e997adec92347b0924b6e70a0a5f823", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bd56406d6a284be98253f018db9d4712", async() => {
                 BeginContext(60259, 7, true);
                 WriteLiteral("Group 4");
                 EndContext();
@@ -485,7 +485,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
                                                     ");
             EndContext();
             BeginContext(62137, 33, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e4d30503bd0043e9887a8d61945023f7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67541a3064b546f384fe357dd084c0dd", async() => {
                 BeginContext(62154, 7, true);
                 WriteLiteral("Group 1");
                 EndContext();
@@ -508,7 +508,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
             WriteLiteral("\r\n                                                    ");
             EndContext();
             BeginContext(62224, 24, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ebf422c8ddff4b6184e1faa9de443596", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b7833e38a3424471b9aad9703e4c59ce", async() => {
                 BeginContext(62232, 7, true);
                 WriteLiteral("Group 2");
                 EndContext();
@@ -528,7 +528,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
             WriteLiteral("\r\n                                                    ");
             EndContext();
             BeginContext(62302, 24, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0457ec3a9d784768a005a4cd3608fd9d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c2a406206fed4e339dccbab1fbfe2779", async() => {
                 BeginContext(62310, 7, true);
                 WriteLiteral("Group 3");
                 EndContext();
@@ -548,7 +548,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
             WriteLiteral("\r\n                                                    ");
             EndContext();
             BeginContext(62380, 24, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e0b9d0b25ae44198ba43577288bdbcd3", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e5d3ef5e3b984343bfc8781265867b76", async() => {
                 BeginContext(62388, 7, true);
                 WriteLiteral("Group 4");
                 EndContext();
@@ -595,7 +595,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
                                                     ");
             EndContext();
             BeginContext(64266, 33, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c9ac4aeb0b4e4fed9844fb73638c9686", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fa3bd6ec5a4e49b5b060cd4293954f8e", async() => {
                 BeginContext(64283, 7, true);
                 WriteLiteral("Group 1");
                 EndContext();
@@ -618,7 +618,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
             WriteLiteral("\r\n                                                    ");
             EndContext();
             BeginContext(64353, 24, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ef57ed0226a5422abcb37f3e2bed4ca1", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "926911dddd0c45cdaf19efd337da62bf", async() => {
                 BeginContext(64361, 7, true);
                 WriteLiteral("Group 2");
                 EndContext();
@@ -638,7 +638,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
             WriteLiteral("\r\n                                                    ");
             EndContext();
             BeginContext(64431, 24, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f71020fe23fd4d16a32d93f4c2300d49", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e39d353b8173432db5c320cde076c08d", async() => {
                 BeginContext(64439, 7, true);
                 WriteLiteral("Group 3");
                 EndContext();
@@ -658,7 +658,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
             WriteLiteral("\r\n                                                    ");
             EndContext();
             BeginContext(64509, 24, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "df0ae24ccdaf4af8989d776153ae32bf", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "563355f3a7024e29af65131dbdfd8f40", async() => {
                 BeginContext(64517, 7, true);
                 WriteLiteral("Group 4");
                 EndContext();
@@ -705,7 +705,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
                                                     ");
             EndContext();
             BeginContext(66395, 33, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2c8bc03ea80340dc8de50324bc49a723", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c5bc0b60e4874239a703c7752823c1b0", async() => {
                 BeginContext(66412, 7, true);
                 WriteLiteral("Group 1");
                 EndContext();
@@ -728,7 +728,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
             WriteLiteral("\r\n                                                    ");
             EndContext();
             BeginContext(66482, 24, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4506dd24c1c64662908a3dfbca18c0b6", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6e6dd222c71d4346afa522367dd4d79b", async() => {
                 BeginContext(66490, 7, true);
                 WriteLiteral("Group 2");
                 EndContext();
@@ -748,7 +748,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
             WriteLiteral("\r\n                                                    ");
             EndContext();
             BeginContext(66560, 24, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0d54c3db944d4df3ae389e6fbd467843", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "69fd70a2bbd04090b6a0487a1e13cbdf", async() => {
                 BeginContext(66568, 7, true);
                 WriteLiteral("Group 3");
                 EndContext();
@@ -768,7 +768,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
             WriteLiteral("\r\n                                                    ");
             EndContext();
             BeginContext(66638, 24, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ce0658d795024c1888928cc42d022846", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a8de2e3be0e947ae806703a650380df4", async() => {
                 BeginContext(66646, 7, true);
                 WriteLiteral("Group 4");
                 EndContext();
@@ -815,7 +815,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
                                                     ");
             EndContext();
             BeginContext(68524, 33, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "36ef0884d77649ffbd34066ab662cd29", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8dffe2fdaeda439c9e8f1bbb68e579e8", async() => {
                 BeginContext(68541, 7, true);
                 WriteLiteral("Group 1");
                 EndContext();
@@ -838,7 +838,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
             WriteLiteral("\r\n                                                    ");
             EndContext();
             BeginContext(68611, 24, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a6c7b787cc4346fd821f76a99cbdff72", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e638a4be4a274d0b89a51b81633dc17b", async() => {
                 BeginContext(68619, 7, true);
                 WriteLiteral("Group 2");
                 EndContext();
@@ -858,7 +858,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
             WriteLiteral("\r\n                                                    ");
             EndContext();
             BeginContext(68689, 24, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "75b10d0d15f542b1b700ba5cba737fc2", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6f10a0dc7a2d4bfbbe0899aa2adea938", async() => {
                 BeginContext(68697, 7, true);
                 WriteLiteral("Group 3");
                 EndContext();
@@ -878,7 +878,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
             WriteLiteral("\r\n                                                    ");
             EndContext();
             BeginContext(68767, 24, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2f1c189852594d59bf612313d017e3c3", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "97c396f26a024adaaa80d87391da1682", async() => {
                 BeginContext(68775, 7, true);
                 WriteLiteral("Group 4");
                 EndContext();
@@ -925,7 +925,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
                                                     ");
             EndContext();
             BeginContext(70653, 33, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f676046a4653473faa13cd38ca564744", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "22fbdeca72be4503b992bbdfc6265b37", async() => {
                 BeginContext(70670, 7, true);
                 WriteLiteral("Group 1");
                 EndContext();
@@ -948,7 +948,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
             WriteLiteral("\r\n                                                    ");
             EndContext();
             BeginContext(70740, 24, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5235fca473a747fc99023cbd02fa0208", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8bbc6217341e448198e4d45becd062bf", async() => {
                 BeginContext(70748, 7, true);
                 WriteLiteral("Group 2");
                 EndContext();
@@ -968,7 +968,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
             WriteLiteral("\r\n                                                    ");
             EndContext();
             BeginContext(70818, 24, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1eef79cdfc14465591e7ca34e7e39a29", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "58d3ca3fc26f472db43c3e368faa133f", async() => {
                 BeginContext(70826, 7, true);
                 WriteLiteral("Group 3");
                 EndContext();
@@ -988,7 +988,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
             WriteLiteral("\r\n                                                    ");
             EndContext();
             BeginContext(70896, 24, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2bfeaddd758f42339390c5fa35fb4e0c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "580b872640a1424d9428bba6f8c7ebf1", async() => {
                 BeginContext(70904, 7, true);
                 WriteLiteral("Group 4");
                 EndContext();
@@ -1035,7 +1035,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
                                                     ");
             EndContext();
             BeginContext(72782, 33, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0294933485c449d7a121a87600edef06", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "454cdc9f40a24aca874ba8b4859cc82a", async() => {
                 BeginContext(72799, 7, true);
                 WriteLiteral("Group 1");
                 EndContext();
@@ -1058,7 +1058,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
             WriteLiteral("\r\n                                                    ");
             EndContext();
             BeginContext(72869, 24, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4d5cde5eab95468bb984d940716d2e85", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "22d52aa3399448349b9386405cefcf47", async() => {
                 BeginContext(72877, 7, true);
                 WriteLiteral("Group 2");
                 EndContext();
@@ -1078,7 +1078,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
             WriteLiteral("\r\n                                                    ");
             EndContext();
             BeginContext(72947, 24, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a85670cca91d4a02bf07d704d284e821", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "187c928896ee41648c5cbd58fdbeb37b", async() => {
                 BeginContext(72955, 7, true);
                 WriteLiteral("Group 3");
                 EndContext();
@@ -1098,7 +1098,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
             WriteLiteral("\r\n                                                    ");
             EndContext();
             BeginContext(73025, 24, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d2a4369bb39c4d28800fdb9636b977e5", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fcd7a736ba0d4695a949b00912f2d65d", async() => {
                 BeginContext(73033, 7, true);
                 WriteLiteral("Group 4");
                 EndContext();
@@ -1176,7 +1176,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
             WriteLiteral("                     ");
             EndContext();
             BeginContext(76142, 35, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "13de2d1a7fa7403493b3651b003224f8", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "bcd91e625e994cd3a187ab3c4fb46a61", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -1208,7 +1208,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
                                                 ");
             EndContext();
             BeginContext(77086, 35, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "158db77249ee486dbe8b7a4583461c3f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "562d76cfa46445c58d997778ab3138c1", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -1240,7 +1240,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
                                                 ");
             EndContext();
             BeginContext(78030, 35, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "3fd4f28653d041b5b438a2372d5d4659", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "236810ec83794258aee940378e0f5aec", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -1272,7 +1272,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
                                                 ");
             EndContext();
             BeginContext(78974, 35, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "5dd18fc624e742fbb835554cbda8a2e7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "e982903a6f4e4e41afcf4a1d20188da6", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -1304,7 +1304,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
                                                 ");
             EndContext();
             BeginContext(79918, 35, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "6860a714aab745508a62108dd9a08468", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "2a1c7cb550a341938f5a4f7390695481", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -1336,7 +1336,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
                                                 ");
             EndContext();
             BeginContext(80862, 35, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "6e43ae6e2a2046e2993a06970e97cd9f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "3663bbacd4f04bc58025df5a3eb404eb", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -1368,7 +1368,7 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
                                                 ");
             EndContext();
             BeginContext(81806, 35, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c5c814324c6a416cb3efeba1b646d8cd", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "95652ca30acd4b0d923757f24d688c75", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -1413,12 +1413,12 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
                 WriteLiteral("\r\n    ");
                 EndContext();
                 BeginContext(82899, 150, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("environment", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c2816c6ee517427ca006db3bd3ccd84e", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("environment", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e6bcd7a98b244f8f85c22b7c502f6a65", async() => {
                     BeginContext(82951, 10, true);
                     WriteLiteral("\r\n        ");
                     EndContext();
                     BeginContext(82961, 68, false);
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "010c5dd80f484b308665dbbe21398a59", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "240b2a73dea641edb51ff7ccac542b78", async() => {
                     }
                     );
                     __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -1463,12 +1463,12 @@ WriteAttributeValue("", 274, Url.Action("Dashboard_1", "Dashboards"), 274, 40, f
                 WriteLiteral("\r\n    ");
                 EndContext();
                 BeginContext(83082, 140, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("environment", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a76b1bbc649148b09e56108dc69b14e6", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("environment", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "df30eb56d4184a2d848d7af517667543", async() => {
                     BeginContext(83134, 10, true);
                     WriteLiteral("\r\n        ");
                     EndContext();
                     BeginContext(83144, 58, false);
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "af898bac7d0a4a0dbb56385f64723016", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b173e6f4cce84cc48caea454bedab437", async() => {
                     }
                     );
                     __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

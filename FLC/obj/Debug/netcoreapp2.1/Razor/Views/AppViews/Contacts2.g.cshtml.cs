@@ -95,7 +95,7 @@ WriteAttributeValue("", 269, Url.Action("Dashboard_1", "Dashboards"), 269, 40, f
                     ");
             EndContext();
             BeginContext(812, 62, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "880fccbcf39a4c268634ff27c8d9b2cd", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "e21216e2e846422faa6fd2996123c6f9", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -141,7 +141,7 @@ WriteAttributeValue("", 269, Url.Action("Dashboard_1", "Dashboards"), 269, 40, f
             WriteLiteral("lass=\"contact-box center-version\">\r\n\r\n                <a href=\"profile.html\">\r\n\r\n                    ");
             EndContext();
             BeginContext(1999, 62, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "5b517c09e6de466db55dee4740a617d8", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "73eb7cf84ced43358e30f24263ba70f3", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -187,7 +187,7 @@ WriteAttributeValue("", 269, Url.Action("Dashboard_1", "Dashboards"), 269, 40, f
             WriteLiteral("ct-box center-version\">\r\n\r\n                <a href=\"profile.html\">\r\n\r\n                    ");
             EndContext();
             BeginContext(3175, 62, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "0c18e57b60b34d73a490adc932383f04", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "d4d55da790db483599f77965f111f770", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -233,7 +233,7 @@ WriteAttributeValue("", 269, Url.Action("Dashboard_1", "Dashboards"), 269, 40, f
             WriteLiteral(" class=\"contact-box center-version\">\r\n\r\n                <a href=\"profile.html\">\r\n\r\n                    ");
             EndContext();
             BeginContext(4364, 62, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "12e197bf7dfb4500a3db38ac039201bb", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "b11fccc27a7649a1908c3fd648687d1b", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -279,7 +279,7 @@ WriteAttributeValue("", 269, Url.Action("Dashboard_1", "Dashboards"), 269, 40, f
             WriteLiteral("lass=\"contact-box center-version\">\r\n\r\n                <a href=\"profile.html\">\r\n\r\n                    ");
             EndContext();
             BeginContext(5551, 62, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "2bb46869c8a34f1d9fc92b0bc7d921ec", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "4ac29748ca9442d98b35833c7e2d1e71", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -326,7 +326,7 @@ WriteAttributeValue("", 269, Url.Action("Dashboard_1", "Dashboards"), 269, 40, f
             WriteLiteral("iv class=\"contact-box center-version\">\r\n\r\n                <a href=\"profile.html\">\r\n\r\n                    ");
             EndContext();
             BeginContext(6742, 62, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "281517daf41744d0b1fc9b1fee427361", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "365e086fd86d49d2883f4160b86bb787", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -373,7 +373,7 @@ WriteAttributeValue("", 269, Url.Action("Dashboard_1", "Dashboards"), 269, 40, f
             WriteLiteral("act-box center-version\">\r\n\r\n                <a href=\"profile.html\">\r\n\r\n                    ");
             EndContext();
             BeginContext(7919, 62, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "a5d4e8c1aafb473fb49c400624c659ac", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "6159a08baaaf4a9795928ca22316c7c5", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -420,7 +420,7 @@ WriteAttributeValue("", 269, Url.Action("Dashboard_1", "Dashboards"), 269, 40, f
             WriteLiteral("tact-box center-version\">\r\n\r\n                <a href=\"profile.html\">\r\n\r\n                    ");
             EndContext();
             BeginContext(9097, 62, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "ecc520eb604b4a2689010ac5727029a0", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "88e4cff5e35546c29306c36c7bce2215", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -466,7 +466,7 @@ WriteAttributeValue("", 269, Url.Action("Dashboard_1", "Dashboards"), 269, 40, f
             WriteLiteral("lass=\"contact-box center-version\">\r\n\r\n                <a href=\"profile.html\">\r\n\r\n                    ");
             EndContext();
             BeginContext(10284, 62, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "42e932c6875649d1995498ba224c4e4d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c2c3d960b62e4997b465f1e35ce9d3cc", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -512,7 +512,7 @@ WriteAttributeValue("", 269, Url.Action("Dashboard_1", "Dashboards"), 269, 40, f
             WriteLiteral("lass=\"contact-box center-version\">\r\n\r\n                <a href=\"profile.html\">\r\n\r\n                    ");
             EndContext();
             BeginContext(11471, 62, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "372ac1b4b4d54d84b5bd38af7a560e08", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "6fdcbbe0f3d64f1a8150d47179135bbf", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -558,7 +558,7 @@ WriteAttributeValue("", 269, Url.Action("Dashboard_1", "Dashboards"), 269, 40, f
             WriteLiteral("ct-box center-version\">\r\n\r\n                <a href=\"profile.html\">\r\n\r\n                    ");
             EndContext();
             BeginContext(12647, 62, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "5ec54c2ebda0434694898b8eba4dbc9c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "28b7c2a5c7fb4ad9b1c7587362094458", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -604,7 +604,7 @@ WriteAttributeValue("", 269, Url.Action("Dashboard_1", "Dashboards"), 269, 40, f
             WriteLiteral(" class=\"contact-box center-version\">\r\n\r\n                <a href=\"profile.html\">\r\n\r\n                    ");
             EndContext();
             BeginContext(13836, 62, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "8db1c6259b8c45feb9cb375909e229eb", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "3b32ab7aa3374901bb3cda71af9d7c5e", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

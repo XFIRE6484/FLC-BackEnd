@@ -105,7 +105,7 @@ WriteAttributeValue("", 271, Url.Action("Dashboard_1", "Dashboards"), 271, 40, f
             WriteLiteral("ample form with custom validation on each form control</p>\r\n                    ");
             EndContext();
             BeginContext(1416, 1183, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "be047cf1f3734629974e651aa8f365b3", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b37a297a2c824240afc5e19a0f19b9eb", async() => {
                 BeginContext(1444, 1148, true);
                 WriteLiteral(@"
                         <div class=""form-group""><label>Email</label> <input type=""email"" placeholder=""Enter email"" class=""form-control"" required></div>
@@ -240,12 +240,12 @@ WriteAttributeValue("", 271, Url.Action("Dashboard_1", "Dashboards"), 271, 40, f
                 WriteLiteral("\r\n    ");
                 EndContext();
                 BeginContext(6735, 205, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("environment", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "218383f184874ea9a03d57fd56d7c83d", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("environment", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bc4f05ec21d44d62bb27ca99fd06eab8", async() => {
                     BeginContext(6787, 10, true);
                     WriteLiteral("\r\n        ");
                     EndContext();
                     BeginContext(6797, 52, false);
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e945e86a8fbf421898cac2c29250e470", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "001557b225a5461b8242b858a3ea9084", async() => {
                     }
                     );
                     __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -263,7 +263,7 @@ WriteAttributeValue("", 271, Url.Action("Dashboard_1", "Dashboards"), 271, 40, f
                     WriteLiteral("\r\n        ");
                     EndContext();
                     BeginContext(6859, 61, false);
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3e80e0a163c94556971651baa47125c6", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "25806ed8be9743a987143860972fbdc4", async() => {
                     }
                     );
                     __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

@@ -446,7 +446,7 @@ WriteAttributeValue("", 275, Url.Action("Dashboard_1", "Dashboards"), 275, 40, f
                                 <td>");
             EndContext();
             BeginContext(16630, 59, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "6ce2f39e98c64812a3221837c2a22ff7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "09d4c1a3c66f4780b1e303d7ebee52bb", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -465,7 +465,7 @@ WriteAttributeValue("", 275, Url.Action("Dashboard_1", "Dashboards"), 275, 40, f
             WriteLiteral(" </td>\r\n                            </tr>\r\n                            <tr>\r\n                                <td><code>.rounded</code></td>\r\n                                <td>");
             EndContext();
             BeginContext(16866, 52, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "8550d20861ef4754bc30dd2d9b293c83", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "09647e5155d14bfcb89d9186fdb2d30c", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -484,7 +484,7 @@ WriteAttributeValue("", 275, Url.Action("Dashboard_1", "Dashboards"), 275, 40, f
             WriteLiteral("</td>\r\n                            </tr>\r\n                            <tr>\r\n                                <td><code>.img-thumbnail</code></td>\r\n                                <td>");
             EndContext();
             BeginContext(17100, 58, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "0487d108d4174960ac7e0cbb41ce42d4", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "7801ba5596da4fc29e952d930bfae487", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -503,7 +503,7 @@ WriteAttributeValue("", 275, Url.Action("Dashboard_1", "Dashboards"), 275, 40, f
             WriteLiteral("</td>\r\n                            </tr>\r\n                            <tr>\r\n                                <td><code>.img-sm</code></td>\r\n                                <td>");
             EndContext();
             BeginContext(17333, 44, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c33cbfb126944da98973b76a5456f1f5", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "1f5e42d8aa574ce282966058dce3a7bc", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -522,7 +522,7 @@ WriteAttributeValue("", 275, Url.Action("Dashboard_1", "Dashboards"), 275, 40, f
             WriteLiteral("</td>\r\n                            </tr>\r\n                            <tr>\r\n                                <td><code>.img-md</code></td>\r\n                                <td>");
             EndContext();
             BeginContext(17552, 44, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "01968265523744ac8166202cccf6549e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "9c22a3326b3e42e2b068004236afc4fe", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -541,7 +541,7 @@ WriteAttributeValue("", 275, Url.Action("Dashboard_1", "Dashboards"), 275, 40, f
             WriteLiteral("</td>\r\n                            </tr>\r\n                            <tr>\r\n                                <td><code>.img-lg</code></td>\r\n                                <td>");
             EndContext();
             BeginContext(17771, 44, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "bfc04d0e43b840d39e959cd9b4a8b768", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "b67bdc047a9c412f8bc1dd87e29eb3e1", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
